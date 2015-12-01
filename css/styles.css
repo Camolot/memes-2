@@ -40,6 +40,15 @@ header a:hover {
   height: 18px;
 }
 
+.header-ps {
+  text-align: center;
+  color: white;
+  margin-top: 25px;
+  margin-bottom: 50px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .header-text {
   text-align: center;
   margin: 0;
@@ -58,11 +67,6 @@ header a:hover {
   border-bottom-width: 2px;
   padding: 0 0 10px;
   margin: 0 0 10px;
-}
-
-.header-text .header-ps {
-  margin-top: 25px;
-  margin-bottom: 50px;
 }
 
 .header-button {
